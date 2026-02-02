@@ -14,4 +14,3 @@ Hi! I'm Ezequiel, a 5th-year Software Engineering student at Universidad Austral
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ezequielrickert&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
