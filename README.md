@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Ezequiel, a 5th-year Software Engineering student at Universidad Austral. I am passionate about building software that is not only functional but also scalable, maintainable, and efficient.<br><br>My academic background and my role as a Teaching Assistant have allowed me to develop a solid foundation in best practices and effective technical communication. I have practical experience designing systems from scratch, implementing microservices, and ensuring quality through rigorous testing.<br><br>🛠 Tech Stack:<br><br>Languages: Java (8+, Streams, Lambdas), Kotlin, TypeScript, SQL.<br><br>Backend: Spring Boot, Node.js, Microservices, Redis (Queues).<br><br>Infrastructure/DevOps: Docker, Docker Compose, GitHub Actions, CI/CD.<br><br>Frontend: React, Tailwind CSS, Shadcn/UI.<br><br>🏆 Achievements:<br><br>AI Hackathon Winner (Univ. Austral).
 
-#🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezequiel-rickert-871081268) 
 
 # 💻 Tech Stack:
